@@ -9,7 +9,8 @@ List link github testing
 *Link Testing Karyawan(Tambah):https://github.com/nicodwirahman/TestingPaw.git
 
 TESTING GAJI 
-<img width="1710" alt="Screenshot 2025-01-21 at 13 45 05" src="https://github.com/user-attachments/assets/de5ee265-8495-405b-9484-508161ecf059" />
+![photo_2025-01-23 00 03 46](https://github.com/user-attachments/assets/98dd125a-2a8c-4e77-b3f3-d182eb396170)
+
 
 
 Use Case
